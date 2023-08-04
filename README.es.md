@@ -29,6 +29,7 @@ https://github.com/4GeeksAcademy/html-hello
 Comienza por identificar que `<tags>` (etiquetas) HTML puedes usar para este sitio web, por ejemplo `<div>`, `<p>`, etc.
 
 Aquí tienes una pista de una buena estrategia:
+Recuerda esta fórmula Etiquetas, luego, "atributo", luego valor
 
 ![Estrategia para post de Instagram](https://github.com/breatheco-de/exercise-instagram-post/blob/master/instagram-post-strategy.gif?raw=true)
  
